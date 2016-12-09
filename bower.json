@@ -1,0 +1,17 @@
+{
+  "name": "jquery-ui-default-theme",
+  "authors": [
+    "Victor Rivas <vctr90w@gmail.com>"
+  ],
+  "description": "The default theme for jquery-ui",
+  "main": "jquery-ui.css",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
